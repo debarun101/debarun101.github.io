@@ -44,14 +44,19 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+1. D. Das, T. Znati and M. B. H. Weiss, "Intelligent Selection of Crowdsourced Spectrum Monitoring Agents in Shared Spectrum Networks", 2024. In Preparation.
+2. D. Das, T. Znati and M. B. H. Weiss, "Efficient Monitoring of Dynamic Spectrum Access for Robust and Reliable Detection of Unauthorized Access," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 729-734.
+3. P. Bustamante, D. Das and J. S. Rose, M. Gomez, M. B. H. Weiss, J. M. Park, and T. Znati, "Toward Automated Enforcement of Radio Interference". TPRC48: The 48th Research Conference on Communication, Information and Internet Policy.
+4. D. Das, T. Znati, M. B. H. Weiss, M. M. Gomez, P. Bustamante, and J. S. Rose, "Matchmaking of Volunteers and Channels for Dynamic Spectrum Access Enforcement," GLOBECOM 2020 - 2020 IEEE Global Communications Conference, Taipei, Taiwan, 2020, pp. 1-6.
+5. D. Das, J. S. Rose, T. Znati, P. Bustamante, M. Weiss and M. M. Gomez, "Spectrum Misuse Detection in Cooperative Wireless Networks," 2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2020, pp. 1-6.
+6. P. Bustamante, M. Gomez, M. B. H. Weiss, T. Znati, D. Das and J. S. Rose, "A Collaborative Enforcement Mechanism for Spectrum Sharing Using Blockchain and Smart Contracts: An Application for the 1695-1710MHz Band". TPRC47: The 47th Research Conference on Communication, Information and Internet Policy 2019.
+7. J. S. Rose, M. B. H. Weiss, T. Znati, M. Gomez, P. Bustamante, D. Das, "Market Disputes | Legal, Social, and Long-Term Implications for an Evolving Spectrum Market". TPRC47: The 47th Research Conference on Communication, Information and Internet Policy 2019.
+8. D. Das, T. Znati, M.Weiss, P. Bustamante, M. Gomez, S. Rose, “Misuse Detection in Dynamic Spectrum Sharing Wireless Networks Across Multiple Channels”. International Journal on Advances in Networks and Services, issn 1942-2644, vol. 12, no. 3 & 4, year 2019, pp. 58-68.
+9. D. Das, T. Znati, M. Weiss, P. Bustamante, M. Gomez, J. S. Rose, “Crowdsourced Misuse Detection in Dynamic Spectrum Sharing Wireless Networks”, International Conference on Networks (ICN), 2019, pp. 74-81.
+10. P. Bustamante, M. Gomez, M. B. H. Weiss, T. Znati, J. M. Park, D. Das, J. S. Rose, "Agent-Based Modeling Approach for Developing Enforcement Mechanisms in Spectrum Sharing Scenarios: An Application for the 1695-1710mhz Band" (March 16, 2018). TPRC 46: The 46th Research Conference on Communication, Information and Internet Policy 2018.
+11. A. Bhattacharya, S. Ghosh, D. Das, S. Choudhury, (2016). A New Service Discovery Approach for Community-Based Web. In: Chaki, R., Cortesi, A., Saeed, K., Chaki, N. (eds) Advanced Computing and Systems for Security. Advances in Intelligent Systems and Computing, vol 396. Springer, New Delhi
+
+
+
+
