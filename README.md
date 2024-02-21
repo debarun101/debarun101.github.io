@@ -16,6 +16,15 @@
 - Developed schemes that utilize Deep Learning-based methods to improve on crowdsourced spectrum monitoring agent selection.
 - Collaborated and coordinated with faculty and fellow graduate students across departments.
 
+## Teaching Experience
+| Course                                |   Role             |     Term      |
+| :---------------:                     | :------:           | :---:         |
+| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Spring 2024        |
+| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Fall 2023        |
+| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Summer 2023        |
+| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Spring 2023        |
+
+
 
 
 ## Publications
