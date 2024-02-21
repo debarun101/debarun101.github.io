@@ -37,6 +37,22 @@
 | Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Fall 2023           |
 | Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Summer 2023         |
 | Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Spring 2023         |
+| Algorithms and Data Structures 2 (CS 1501)           |   Graduate TA             | Fall 2022           |
+| Introduction to Operating Systems (CS 1550)          |   Graduate TA             | Spring 2022         |
+| Wide Area Networks (CS 2520)                         |   Graduate TA             | Fall 2021           |
+| Introduction to Computer Graphics (CS 1566)          |   Graduate TA             | Fall 2021           |
+| Introduction to Systems Software (CS 449)            | Graduate TA               | Spring 2021         |
+| Comp Organization & Assembly Language (CS 447)       | Graduate TA               | Spring 2021         |
+| Introduction to Systems Software (CS 449)            | Graduate TA               | Fall 2020           |
+| Intro to Human-Computer Interaction (CS 1637)        | Graduate TA               | Fall 2020           |
+| Programming Languages for Web Apps (CS 1520)         | Graduate TA               | Summer 2019         |
+| Formal Methods in Computer Science (CS 1502)         | Graduate TA               | Spring 2019         |
+| Programming Languages for Web Apps (CS 1520)         | Graduate TA               | Fall 2018           |
+| Formal Methods in Computer Science (CS 1502)         | Graduate TA               | Fall 2017           |
+| Introduction to Computer Operating Systems (CS 1550) | Graduate TA               | Spring 2016         |
+| Introduction to Computer Operating Systems (CS 1550) | Graduate TA               | Fall 2015           |
+
+
 
 
 
