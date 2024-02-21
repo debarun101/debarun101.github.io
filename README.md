@@ -22,7 +22,7 @@
 - Administered grades for course assignments and projects.
 - Advised students on course concepts, assignments, and projects during weekly student support hours (in-person and online).
 
-**Graduate Teaching Fellow (TA) @ University of Pittsburgh (_Sep 2015 – Present_)**
+**Graduate Teaching Fellow (TF) @ University of Pittsburgh (_Jan 2023 – Jul 2023)**
 - Main Instructor for the course Introduction to Computer Programming (CS 0007)
 - Lectured in-person weekly lectures on introductory programming using Java to a class of up to 50 students.
 - Developed new course materials including lecture slides, quizzes, exams, assignments, and projects, and devised a new syllabus and course structure for the course.
@@ -33,10 +33,10 @@
 
 | Course                                               |   Role                    |     Term            |
 | :---------------:                                    | :------:                  | :---:               |
-| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Spring 2024          |
-| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Fall 2023          |
-| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Summer 2023        |
-| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Spring 2023        |
+| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Spring 2024         |
+| Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Fall 2023           |
+| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Summer 2023         |
+| Introduction to Computer Programming (CS 0007)       |   Graduate TF             | Spring 2023         |
 
 
 
