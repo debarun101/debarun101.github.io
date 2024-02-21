@@ -31,7 +31,7 @@
 
 
 
-| Course                                               |   Role                    |     Term            |
+| Course                                               |   Teaching Role           |     Term            |
 | :---------------:                                    | :------:                  | :---:               |
 | Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Spring 2024         |
 | Introduction to Computer Operating Systems (CS 1550) |   Graduate TA             | Fall 2023           |
@@ -57,11 +57,11 @@
 
 
 
-## Publications
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Selected Academic Projects
+### Occupancy-Based HVAC Control (CS 3720 Advanced IOT)
+[Details](https://github.com/debarun101/CS-3720-Advanced-Topics-in-IOT/blob/main/Final_Report.pdf)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed occupancy detection (using OpenCV, OpenFace) and counting system (majority vote and cluster-based algorithms) by using local image processing in a resource-constrained hardware device (Raspberry Pi). Deployed strategies to control a HVAC system, based on occupant count and occupant activity in a room (in Python). Achieved a 16.85% increase in thermal comfort and a 2.35% increase in energy savings by using a variable cooling rate of the HVAC system that depends on occupant count and activity, when compared to the change in temperature by a fixed cooling rate.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
