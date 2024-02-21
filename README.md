@@ -3,14 +3,24 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Computer Science | University of Pittsburgh (_April 2024_)								       		
+- Ph.D., Computer Science | University of Pittsburgh (_April 2024 (Expected)_)								       		
 - M.S., Computer Science	| University of Pittsburgh (_August 2022_)	 			        		
-- B.Tech, Computer Science and Engineering | West Bengal University of Technology (_June 2015_)
+- B.Tech, Computer Science & Engineering | West Bengal University of Technology (_June 2015_)
 
 ## Research Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Doctoral Researcher @ University of Pittsburgh (_Sep 2016 – Present_)**
+- Designed and developed a hybrid infrastructure that achieves scalability and coverage for near real-time enforcement of spectrum access.
+- Developed an agent-based simulation system that helps achieve efficient assessment of the performance of mobile crowdsourced spectrum monitoring agents in terms of coverage and accuracy of spectrum misuse detection.
+- Developed a system that utilizes strategies to achieve effective deployment and selection of crowdsourced spectrum monitoring agents based on their hardware capabilities, availability, and trustworthiness.
+- Deployed a composite approach to achieve efficacy in enforcement by exploiting the advantages of vanilla, online threshold-based algorithms and algorithms that ensure stable matching. \
+- Achieved an increase in coverage of enforcement region by 19.2% by using the composite algorithm when compared to state-of-the-art algorithms.
+- Developed efficient strategies of spectrum sampling and reputation management of crowdsourced spectrum monitoring agents to achieve consistency and robustness in the enforcement of dynamic spectrum access.
+- Developed schemes that utilize Deep Learning-based methods to improve on crowdsourced spectrum monitoring agent selection.
+- Collaborated and coordinated with faculty and fellow graduate students across departments.
+
+
+
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
