@@ -22,8 +22,8 @@
 - Administered grades for course assignments and projects.
 - Advised students on course concepts, assignments, and projects during weekly student support hours (in-person and online).
 
-**Graduate Teaching Fellow (TF) @ University of Pittsburgh (_Jan 2023 – Jul 2023)**
-- Main Instructor for the course Introduction to Computer Programming (CS 0007)
+**Graduate Teaching Fellow (TF) @ University of Pittsburgh (_Jan 2023 – Jul 2023_)**
+- **Main Instructor** for the course Introduction to Computer Programming (CS 0007)
 - Lectured in-person weekly lectures on introductory programming using Java to a class of up to 50 students.
 - Developed new course materials including lecture slides, quizzes, exams, assignments, and projects, and devised a new syllabus and course structure for the course.
 - Administered grades for the final and midterm exams of the course.
