@@ -1,7 +1,5 @@
 # Computer Science Ph.D. Candidate
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
 - Ph.D., Computer Science | University of Pittsburgh (_April 2024 (Expected)_)								       		
 - M.S., Computer Science	| University of Pittsburgh (_August 2022_)	 			        		
