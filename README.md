@@ -1,7 +1,7 @@
 # Computer Science Ph.D. Candidate
 
 ## Education
-- Ph.D., Computer Science | University of Pittsburgh (_April 2024 (Expected)_)								       		
+- Ph.D., Computer Science | University of Pittsburgh (_April 2024_)								       		
 - M.S., Computer Science	| University of Pittsburgh (_August 2022_)	 			        		
 - B.Tech, Computer Science & Engineering | West Bengal University of Technology (_June 2015_)
 
