@@ -4,3 +4,15 @@ logo: assets/img/self_copy.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
 skin: dark
+
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
+
