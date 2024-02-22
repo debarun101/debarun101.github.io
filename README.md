@@ -1,11 +1,11 @@
 # Computer Science Ph.D. Candidate
 
-## Education
+## 📚 Education
 - Ph.D., Computer Science | University of Pittsburgh (_April 2024_)								       		
 - M.S., Computer Science	| University of Pittsburgh (_August 2022_)	 			        		
 - B.Tech, Computer Science & Engineering | West Bengal University of Technology (_June 2015_)
 
-## Research Experience
+## 🔬 Research Experience
 **Doctoral Researcher @ University of Pittsburgh (_Sep 2016 – Present_)**
 - Designed and developed a hybrid infrastructure that achieves scalability and coverage for near real-time enforcement of spectrum access.
 - Developed an agent-based simulation system that helps achieve efficient assessment of the performance of mobile crowdsourced spectrum monitoring agents in terms of coverage and accuracy of spectrum misuse detection.
@@ -16,7 +16,7 @@
 - Developed schemes that utilize Deep Learning-based methods to improve on crowdsourced spectrum monitoring agent selection.
 - Collaborated and coordinated with faculty and fellow graduate students across departments.
 
-## Teaching Experience
+## 👨🏻‍🏫 Teaching Experience
 **Graduate Teaching Assistant (TA) @ University of Pittsburgh (_Sep 2015 – Present_)**
 - Led weekly recitations to discuss course concepts, assignments, projects, and solve relevant problems (in-person and online).
 - Administered grades for course assignments and projects.
