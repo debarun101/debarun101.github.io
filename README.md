@@ -63,24 +63,21 @@
 
 Developed occupancy detection (using OpenCV, OpenFace) and counting system (majority vote and cluster-based algorithms) by using local image processing in a resource-constrained hardware device (Raspberry Pi). Deployed strategies to control a HVAC system, based on occupant count and occupant activity in a room (in Python). Achieved a 16.85% increase in thermal comfort and a 2.35% increase in energy savings by using a variable cooling rate of the HVAC system that depends on occupant count and activity, when compared to the change in temperature by a fixed cooling rate.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Multi-threaded Routing Protocol (CS 2520 Wide Area Networks)
+[Details](https://github.com/debarun101/CS2520/blob/main/Project_Report.PDF)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+Built a multi-threaded system to implement Link State Routing Protocol (using C++), which allows an autonomous system of routers to inter-communicate by using a common protocol. Achieved consistent, successful file transfer in a robust autonomous routing system. Conducted statistical analysis to identify the trend in change of Mean Transfer Time of files with the change in file size and TCP packet size.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## CONFERENCE PRESENTATIONS ##
+### Oral Presentations ###
+-  Presented the paper, "D. Das, T. Znati, M. B. H. Weiss, M. M. Gomez, P. Bustamante, and J. S. Rose, "Matchmaking of Volunteers and Channels for Dynamic Spectrum Access Enforcement," GLOBECOM 2020 - 2020 IEEE Global Communications Conference, Taipei, Taiwan, 2020, pp. 1-6."re
+-  Presented the paper. "D. Das, J. S. Rose, T. Znati, P. Bustamante, M. Weiss and M. M. Gomez, "Spectrum Misuse Detection in Cooperative Wireless Networks," 2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2020, pp. 1-6."
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Poster Presentation ###
+- Presented the paper, "D. Das, T. Znati and M. B. H. Weiss, "Efficient Monitoring of Dynamic Spectrum Access for Robust and Reliable Detection of Unauthorized Access," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 729-734."
+
 
 ## Publications
 
