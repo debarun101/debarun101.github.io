@@ -1,9 +1,14 @@
 title: Debarun Das
 logo: assets/img/self_copy.jpg
 #description: text below image
+lang: "en"
 show_downloads: false
 theme: jekyll-theme-minimal
 skin: dark
+
+external:
+  - {title: Mail, icon: envelope, url: "mailto:debarun.das11@gmail.com"}
+  - {title: Github, icon: github, url: "www.github.com/debarun101"}
 
 
 
