@@ -54,22 +54,6 @@
 
 
 
-
-
-
-## Selected Academic Projects
-### Occupancy-Based HVAC Control (CS 3720 Advanced IOT)
-[Details](https://github.com/debarun101/CS-3720-Advanced-Topics-in-IOT/blob/main/Final_Report.pdf)
-
-Developed occupancy detection (using OpenCV, OpenFace) and counting system (majority vote and cluster-based algorithms) by using local image processing in a resource-constrained hardware device (Raspberry Pi). Deployed strategies to control a HVAC system, based on occupant count and occupant activity in a room (in Python). Achieved a 16.85% increase in thermal comfort and a 2.35% increase in energy savings by using a variable cooling rate of the HVAC system that depends on occupant count and activity, when compared to the change in temperature by a fixed cooling rate.
-
-
-
-### Multi-threaded Routing Protocol (CS 2520 Wide Area Networks)
-[Details](https://github.com/debarun101/CS2520/blob/main/Project_Report.PDF)
-
-Built a multi-threaded system to implement Link State Routing Protocol (using C++), which allows an autonomous system of routers to inter-communicate by using a common protocol. Achieved consistent, successful file transfer in a robust autonomous routing system. Conducted statistical analysis to identify the trend in change of Mean Transfer Time of files with the change in file size and TCP packet size.
-
 ## CONFERENCE PRESENTATIONS ##
 ### Oral Presentations ###
 -  Presented the paper, "D. Das, T. Znati, M. B. H. Weiss, M. M. Gomez, P. Bustamante, and J. S. Rose, "Matchmaking of Volunteers and Channels for Dynamic Spectrum Access Enforcement," GLOBECOM 2020 - 2020 IEEE Global Communications Conference, Taipei, Taiwan, 2020, pp. 1-6."re
@@ -94,5 +78,17 @@ Built a multi-threaded system to implement Link State Routing Protocol (using C+
 11. A. Bhattacharya, S. Ghosh, **D. Das**, S. Choudhury, (2016). A New Service Discovery Approach for Community-Based Web. In: Chaki, R., Cortesi, A., Saeed, K., Chaki, N. (eds) Advanced Computing and Systems for Security. Advances in Intelligent Systems and Computing, vol 396. Springer, New Delhi. [Paper](https://link.springer.com/chapter/10.1007/978-81-322-2653-6_10)
 
 
+## Selected Academic Projects
+### Occupancy-Based HVAC Control (CS 3720 Advanced IOT)
+[Details](https://github.com/debarun101/CS-3720-Advanced-Topics-in-IOT/blob/main/Final_Report.pdf)
+
+Developed occupancy detection (using OpenCV, OpenFace) and counting system (majority vote and cluster-based algorithms) by using local image processing in a resource-constrained hardware device (Raspberry Pi). Deployed strategies to control a HVAC system, based on occupant count and occupant activity in a room (in Python). Achieved a 16.85% increase in thermal comfort and a 2.35% increase in energy savings by using a variable cooling rate of the HVAC system that depends on occupant count and activity, when compared to the change in temperature by a fixed cooling rate.
+
+
+
+### Multi-threaded Routing Protocol (CS 2520 Wide Area Networks)
+[Details](https://github.com/debarun101/CS2520/blob/main/Project_Report.PDF)
+
+Built a multi-threaded system to implement Link State Routing Protocol (using C++), which allows an autonomous system of routers to inter-communicate by using a common protocol. Achieved consistent, successful file transfer in a robust autonomous routing system. Conducted statistical analysis to identify the trend in change of Mean Transfer Time of files with the change in file size and TCP packet size.
 
 
