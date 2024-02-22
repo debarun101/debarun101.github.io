@@ -6,6 +6,10 @@ show_downloads: false
 theme: jekyll-theme-minimal
 skin: dark
 
+show_social: true
+show_excerpts: true
+show_frame: true
+
 external:
   - {title: Mail, icon: envelope, url: "mailto:debarun.das11@gmail.com"}
   - {title: Github, icon: github, url: "www.github.com/debarun101"}
