@@ -10,7 +10,7 @@
 - Designed and developed a hybrid infrastructure that achieves scalability and coverage for near real-time enforcement of spectrum access.
 - Developed an agent-based simulation system that helps achieve efficient assessment of the performance of mobile crowdsourced spectrum monitoring agents in terms of coverage and accuracy of spectrum misuse detection.
 - Developed a system that utilizes strategies to achieve effective deployment and selection of crowdsourced spectrum monitoring agents based on their hardware capabilities, availability, and trustworthiness.
-- Deployed a composite approach to achieve efficacy in enforcement by exploiting the advantages of vanilla, online threshold-based algorithms and algorithms that ensure stable matching. \
+- Deployed a composite approach to achieve efficacy in enforcement by exploiting the advantages of vanilla, online threshold-based algorithms and algorithms that ensure stable matching. 
 - Achieved an increase in coverage of enforcement region by 19.2% by using the composite algorithm when compared to state-of-the-art algorithms.
 - Developed efficient strategies of spectrum sampling and reputation management of crowdsourced spectrum monitoring agents to achieve consistency and robustness in the enforcement of dynamic spectrum access.
 - Developed schemes that utilize Deep Learning-based methods to improve on crowdsourced spectrum monitoring agent selection.
