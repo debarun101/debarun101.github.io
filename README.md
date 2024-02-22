@@ -1,4 +1,4 @@
-# Computer Science Ph.D. Candidate
+# Welcome to My Home Page
 
 ## 📚 Education
 - Ph.D., Computer Science | University of Pittsburgh (_April 2024_)								       		
