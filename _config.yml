@@ -3,3 +3,4 @@ logo: assets/img/self_copy.jpg
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+skin: dark
