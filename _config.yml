@@ -1,9 +1,11 @@
 title: Debarun Das
 logo: assets/img/self_copy.jpg
 #description: text below image
+<a href = "www.google.com">Google </a>
+
 show_downloads: false
 theme: jekyll-theme-minimal
 skin: dark
 
-<a href = "www.google.com">Google </a>
+
 
